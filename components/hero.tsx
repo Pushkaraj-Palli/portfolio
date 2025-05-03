@@ -52,6 +52,12 @@ export default function Hero() {
             <Button
               size="lg"
               className="bg-gradient-to-r from-purple-600 to-pink-600 text-white text-lg hover:from-purple-700 hover:to-pink-700"
+              onClick={() => {
+                const projectsSection = document.getElementById('projects');
+                if (projectsSection) {
+                  projectsSection.scrollIntoView({ behavior: 'smooth' });
+                }
+              }}
             >
               View My Work
             </Button>
