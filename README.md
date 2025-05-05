@@ -2,33 +2,37 @@
 
 Welcome to my portfolio! I'm a Computer Engineering student and full-stack developer passionate about building web and mobile applications.
 
-## About This Portfolio
+## 🌐 Live Demo
 
-This portfolio is built with:
-- **Next.js 15** - For server-side rendering and routing
-- **React 19** - For UI components and interactivity
-- **TypeScript** - For type safety
-- **Tailwind CSS** - For styling
-- **Framer Motion** - For smooth animations
-- **Next Themes** - For light/dark mode
-- **React Hook Form** - For form handling
+Check out the live portfolio:  
+👉 [https://portfolio-pushkaraj-palli-projects.vercel.app/](https://portfolio-pushkaraj-palli-projects.vercel.app/)
 
-## Features
+## 🛠️ Built With
 
-- Responsive design that works across all devices
-- Dark mode support
-- Smooth page transitions and scroll animations
+- **Next.js 15** – Server-side rendering and routing
+- **React 19** – Modern UI components
+- **TypeScript** – Type-safe JavaScript
+- **Tailwind CSS** – Utility-first styling
+- **Framer Motion** – Smooth animations
+- **Next Themes** – Light/dark mode support
+- **React Hook Form** – Form handling and validation
+
+## ✨ Features
+
+- Fully responsive design
+- Dark mode toggle
+- Smooth page transitions and animations
 - Interactive project showcase
-- Direct contact form
-- Social media integration
+- Working contact form with serverless email integration
+- Social media links and contact options
 
-## Projects Showcased
+## 🚀 Projects Showcased
 
-- **CompileHub** - An online compiler for multiple programming languages
-- **StarBrain AI** - An intelligent chatbot using Gemini API
-- **BrushCraft** - A digital drawing canvas built with React
+- **CompileHub** – An online compiler for multiple programming languages
+- **StarBrain AI** – A smart chatbot using the Gemini API
+- **BrushCraft** – A digital drawing app made with React
 
-## Getting Started
+## 🧑‍💻 Getting Started
 
 To run this portfolio locally:
 
@@ -42,15 +46,6 @@ cd portfolio
 # Install dependencies
 npm install
 
-# Run the development server
+# Start the development server
 npm run dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
-
-## Connect With Me
-
-- Email: pallipushkaraj@gmail.com
-- GitHub: [Pushkaraj-Palli](https://github.com/Pushkaraj-Palli)
-- LinkedIn: [Pushkaraj Palli](https://www.linkedin.com/in/pushkaraj-palli-748296269/)
-- Twitter: [@PushkarajPalli](https://x.com/PushkarajPalli) 
